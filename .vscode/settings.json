@@ -1,0 +1,9 @@
+{
+    "editor.rulers": [
+        79
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
